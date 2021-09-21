@@ -1,0 +1,15 @@
+.containerAdviceAleatory{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}
+.defaultStylecenter{
+    text-align: start;
+}
+.separador{
+    width: 90%;
+    height: 1px;
+    background: #dcdcdc;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
