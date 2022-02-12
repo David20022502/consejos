@@ -1,5 +1,7 @@
 Link de Aplicación: https://examen2-ketum4z1d-david20022502.vercel.app/
 
+Herramientas utilizadas: React, JavaScript, Html, CSS, AntDesign
+
 
 # Getting Started with Create React App
 
