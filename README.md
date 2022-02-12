@@ -2,6 +2,8 @@ Link de Aplicación: https://examen2-ketum4z1d-david20022502.vercel.app/
 
 Herramientas utilizadas: React, JavaScript, Html, CSS, AntDesign
 
+Información: Esta aplicación web nos permite poder ver consejos, los cuales son consumidos mediante una API de consejos, tambien se puede buscar consejos, agregar a favoritos o eliminarlos, e indicandole un consejo aleatorio en cuanto se cargue el programa
+
 
 # Getting Started with Create React App
 
